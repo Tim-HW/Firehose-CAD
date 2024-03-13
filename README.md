@@ -5,3 +5,4 @@
 </p>
 
 
+This Firehose CAD has been 3D designed for Virtual reality application to simulate a real firehose.
